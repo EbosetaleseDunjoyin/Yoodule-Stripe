@@ -99,10 +99,10 @@ function yoodule_stripe_shortcode()
            <table id='table_id' class='display'>
                 <thead>
                     <tr>
-                        <th>Name</th>
-                        <th>Position</th>
-                        <th>Salary</th>
-                        <th>Office</th>
+                        <th>Id</th>
+                        <th>Unit Amount</th>
+                        <th>Currency</th>
+                        <th>Product</th>
                         
                     </tr>
                 </thead>
